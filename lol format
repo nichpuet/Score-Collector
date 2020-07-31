@@ -1,0 +1,152 @@
+{
+  "games": [
+   {
+    "begin_at": "2020-07-30T18:10:06Z",
+    "detailed_stats": true,
+    "end_at": "2020-07-30T18:50:23Z",
+    "finished": true,
+    "forfeit": false,
+    "id": 217960,
+    "length": 2045,
+    "match_id": 566297,
+    "position": 1,
+    "status": "finished",
+    "video_url": null,
+    "winner": {
+     "id": 339,
+     "type": "Team"
+        },
+    "winner_type": "Team"
+    }
+    ],
+  "slug": "gamers-origin-vs-gameward-2020-07-30",
+  "results": [
+   {
+    "score": 1,
+    "team_id": 339
+   },
+   {
+    "score": 0,
+    "team_id": 126750
+   }
+     ],
+  "begin_at": "2020-07-30T18:10:05Z",
+  "status": "finished",
+  "league": {
+   "id": 4292,
+   "image_url": "https://cdn.pandascore.co/images/league/image/4292/1200px-LFL_Logo_2020.png",
+   "modified_at": "2020-02-15T13:00:22Z",
+   "name": "LFL",
+   "slug": "league-of-legends-lfl",
+   "url": "http://www.lollfl.com/"
+    },
+  "detailed_stats": true,
+  "rescheduled": false,
+  "winner_id": 339,
+  "videogame_version": {
+   "current": false,
+   "name": "10.14.1"
+     },
+  "tournament": {
+   "begin_at": "2020-07-28T17:00:00Z",
+   "end_at": null,
+   "id": 4472,
+   "league_id": 4292,
+   "live_supported": false,
+   "modified_at": "2020-07-28T21:16:08Z",
+   "name": "Regular Season",
+   "prizepool": null,
+   "serie_id": 2851,
+   "slug": "league-of-legends-lfl-2020-regular-season",
+   "winner_id": null,
+   "winner_type": "Team"
+    },
+  "modified_at": "2020-07-30T21:19:03Z",
+  "scheduled_at": "2020-07-30T18:00:00Z",
+  "serie": {
+   "begin_at": "2020-07-28T17:00:00Z",
+   "description": null,
+   "end_at": null,
+   "full_name": "Summer 2020",
+   "id": 2851,
+   "league_id": 4292,
+   "modified_at": "2020-07-23T14:35:42Z",
+   "name": "",
+   "season": "Summer",
+   "slug": "league-of-legends-lfl-2020",
+   "tier": "c",
+   "winner_id": null,
+   "winner_type": "Team",
+   "year": 2020
+    },
+  "name": "GO vs GW",
+  "official_stream_url": "https://www.twitch.tv/ogaminglol",
+  "game_advantage": null,
+  "forfeit": false,
+  "number_of_games": 1,
+  "serie_id": 2851,
+  "end_at": "2020-07-30T18:50:22Z",
+  "league_id": 4292,
+  "streams": {
+   "english": {
+    "embed_url": null,
+    "raw_url": null
+    },
+   "russian": {
+    "embed_url": null,
+    "raw_url": null
+    }
+    },
+  "original_scheduled_at": "2020-07-30T18:00:00Z",
+  "winner": {
+   "acronym": "GO",
+   "id": 339,
+   "image_url": "https://cdn.pandascore.co/images/team/image/339/220px_gamers_originlogo_profile.png",
+   "location": "FR",
+   "modified_at": "2020-07-23T14:08:39Z",
+   "name": "Gamers Origin",
+   "slug": "gamers-origin"
+     },
+  "match_type": "best_of",
+  "opponents": [
+   {
+    "opponent": {
+     "acronym": "GO",
+     "id": 339,
+     "image_url": "https://cdn.pandascore.co/images/team/image/339/220px_gamers_originlogo_profile.png",
+     "location": "FR",
+     "modified_at": "2020-07-23T14:08:39Z",
+     "name": "Gamers Origin",
+     "slug": "gamers-origin"
+    },
+    "type": "Team"
+   },
+   {
+    "opponent": {
+     "acronym": "GW",
+     "id": 126750,
+     "image_url": "https://cdn.pandascore.co/images/team/image/126750/220px_game_wardlogo_square.png",
+     "location": "FR",
+     "modified_at": "2020-07-23T14:08:39Z",
+     "name": "GameWard",
+     "slug": "gameward"
+    },
+    "type": "Team"
+   }
+  ],
+  "live_embed_url": "https://player.twitch.tv/?channel=ogaminglol",
+  "live_url": "https://www.twitch.tv/ogaminglol",
+  "id": 566297,
+  "live": {
+   "opens_at": null,
+   "supported": false,
+   "url": null
+  },
+  "tournament_id": 4472,
+  "videogame": {
+   "id": 1,
+   "name": "LoL",
+   "slug": "league-of-legends"
+  },
+  "draw": false
+ },
