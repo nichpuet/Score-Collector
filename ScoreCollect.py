@@ -88,8 +88,7 @@ def prepLol():
                                 pass
                             else: 
                                 formattedGames.append(matchName)
-                                print(matchName)
-                                #currently adds double of the last instant to list
+                                print(matchName) 
 
 
 def sendText(sendable):
